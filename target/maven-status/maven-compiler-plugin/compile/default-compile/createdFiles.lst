@@ -1,0 +1,9 @@
+com/wanakin/rickmorty/response/ListCharactersResponse.class
+com/wanakin/rickmorty/response/CharacterResponse.class
+com/wanakin/rickmorty/response/EpisodeResponse.class
+com/wanakin/rickmorty/RickMortyClient.class
+com/wanakin/rickmorty/response/LocationResponse.class
+com/wanakin/rickmorty/RickmortyApplication.class
+com/wanakin/rickmorty/response/ListLocationsResponse.class
+com/wanakin/rickmorty/response/ListEpisodesResponse.class
+com/wanakin/rickmorty/controller/RickMortyController.class

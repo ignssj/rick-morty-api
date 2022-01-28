@@ -1,0 +1,9 @@
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/response/EpisodeResponse.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/response/ListCharactersResponse.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/response/ListLocationsResponse.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/response/LocationResponse.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/response/ListEpisodesResponse.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/response/CharacterResponse.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/RickMortyClient.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/RickmortyApplication.java
+/home/wanakin/Projetos/Java/rick-morty-api/src/main/java/com/wanakin/rickmorty/controller/RickMortyController.java
